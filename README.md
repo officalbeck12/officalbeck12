@@ -15,8 +15,8 @@ I turn complex systems into data-driven decisions.
 
 | Domain             | Tools |
 |--------------------|-------|
-| Data Science**     | Python (Pandas, NumPy, Scikit-learn, TensorFlow), R, SQL |
-| Visualization**    | Tableau, Power BI, Matplotlib, Seaborn |
+| Data Science       | Python (Pandas, NumPy, Scikit-learn, TensorFlow), R, SQL |
+| Visualization      | Tableau, Power BI, Matplotlib, Seaborn |
 | Engineering        | MATLAB, Simulink, AutoCAD, PLC basics |
 | Economics          | Stata, EViews, Excel (advanced), Econometric modeling |
 | Version Control    | Git, GitHub |
